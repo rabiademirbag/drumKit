@@ -38,7 +38,7 @@ Enjoy playing your virtual drum kit! 🥁🎶
 
 ## Canlı Site
 
-[Proje Adı](https://github-rabiademirbag.github.io/drumKit)
+[Drum kit](https://github-rabiademirbag.github.io/drumKit)
 
 
 ![Proje Ekran Görüntüsü](images/screenshot.png)
