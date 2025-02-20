@@ -34,12 +34,9 @@ Plays sounds on both click and keyboard input
 
 Smooth animations on button hover
 
-## 🚀 Installation & Usage
-
-Clone the repository or download the files.
-
-git clone https://github.com/yourusername/drumkit.git
-
-Open index.html in a browser.
-
 Enjoy playing your virtual drum kit! 🥁🎶
+
+## Canlı Site
+
+[Proje Adı](https://github-rabiademirbag.github.io/drumKit)
+![Proje Ekran Görüntüsü](images/screenshot.png)
